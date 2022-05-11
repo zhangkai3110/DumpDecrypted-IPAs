@@ -8,6 +8,7 @@
 * [TikTok](https://www.123pan.com/s/wEgDVv-b0bPh)
 * [闲鱼](https://www.123pan.com/s/wEgDVv-S0bPh)
 * [Youtube(uYouPlus)](https://github.com/qnblackcat/uYouPlus)
+* [其他](https://www.123pan.com/s/wEgDVv-QKbPh)
 
 ## iOS模拟器
 
